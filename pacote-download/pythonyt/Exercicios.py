@@ -2199,14 +2199,4 @@ simples. O sistema só vai ter 2 opções: cadastrar um nova pessoa e listar tod
 116-
 
 ========================================================================================================================
-
-
 """
-'''
-
-'''
-num = [2, 8, 4, 7]
-num.pop()
-num.insert(1, 3)
-num.append(6)
-print(num)
